@@ -51,3 +51,4 @@ And in User.m or anywhere else when you need the **mapping**
 
 
 
+There are many known issues there.Please use this for the faster development for json mapping.
