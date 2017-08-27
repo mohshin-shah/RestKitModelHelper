@@ -1,4 +1,4 @@
-# RestKitModelHelper
+# JSON Formatter and RestKit Model Mapping
 Mac Application to create model properties from the JSON for RestKit(https://github.com/RestKit/RestKit)
 
 ### Pasting raw JSON
